@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comentários sobre MeuSite	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	Comentários sobre Portfolio	</title>
+	<atom:link href="http://localhost/sites/Portfolio/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/sites/Portfolio/wordpress</link>
 	<description></description>
-	<lastBuildDate>Wed, 08 Jan 2025 20:55:46 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Jan 2025 16:14:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
